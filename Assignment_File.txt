@@ -1,0 +1,4 @@
+I write my code both day and night,  
+Python makes the logic right.  
+With each new loop and function made,  
+Errors in Python are easily slayed.  
